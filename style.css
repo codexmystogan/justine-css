@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #000;
+
+}
+
+p {
+    font-size: 12px;
+    line-height: 10px;
+    text-align: justify;
+    -webkit-background-size: cover;
+    background-size: 55%;
+    background-repeat: no-repeat;
+    background-position: top;
+    background: url(3.jpg) no-repeat center;
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: rgba(225, 225, 255, 0
+    );
+    letter-spacing: 0px;
+}
