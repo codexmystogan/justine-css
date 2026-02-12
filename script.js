@@ -1,7 +1,7 @@
 // script.js - Autoplay Music Handler
 document.addEventListener('DOMContentLoaded', function() {
     const audio = document.getElementById('bgMusic');
-    audio.volume = 0.3; // Set comfortable volume (0.0 - 1.0)
+    audio.volume = 1; // Set comfortable volume (0.0 - 1.0)
     
     // Unmute and start playing
     audio.muted = false;
